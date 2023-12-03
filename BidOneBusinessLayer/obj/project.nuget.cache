@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7+7zgynNsYCHmkxGlZoGxgLIOH77rPFj6IO0cQPAam1WSuTLbGgSpof58duNrgR02/VN1GTQFdn7KaislsI5gA==",
+  "success": true,
+  "projectFilePath": "E:\\BidOneTestProject\\BidOneBusinessLayer\\BidOneBusinessLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

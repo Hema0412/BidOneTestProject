@@ -1,0 +1,11 @@
+E:\BidOneTestProject\BidOneDataAccessLayer\bin\Debug\net8.0\BidOneDataAccessLayer.deps.json
+E:\BidOneTestProject\BidOneDataAccessLayer\bin\Debug\net8.0\BidOneDataAccessLayer.dll
+E:\BidOneTestProject\BidOneDataAccessLayer\bin\Debug\net8.0\BidOneDataAccessLayer.pdb
+E:\BidOneTestProject\BidOneDataAccessLayer\obj\Debug\net8.0\BidOneDataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\BidOneTestProject\BidOneDataAccessLayer\obj\Debug\net8.0\BidOneDataAccessLayer.AssemblyInfoInputs.cache
+E:\BidOneTestProject\BidOneDataAccessLayer\obj\Debug\net8.0\BidOneDataAccessLayer.AssemblyInfo.cs
+E:\BidOneTestProject\BidOneDataAccessLayer\obj\Debug\net8.0\BidOneDataAccessLayer.csproj.CoreCompileInputs.cache
+E:\BidOneTestProject\BidOneDataAccessLayer\obj\Debug\net8.0\BidOneDataAccessLayer.dll
+E:\BidOneTestProject\BidOneDataAccessLayer\obj\Debug\net8.0\refint\BidOneDataAccessLayer.dll
+E:\BidOneTestProject\BidOneDataAccessLayer\obj\Debug\net8.0\BidOneDataAccessLayer.pdb
+E:\BidOneTestProject\BidOneDataAccessLayer\obj\Debug\net8.0\ref\BidOneDataAccessLayer.dll

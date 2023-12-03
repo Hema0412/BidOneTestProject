@@ -1,0 +1,15 @@
+E:\BidOneTestProject\BidOneBusinessLayer\bin\Debug\net8.0\BidOneBusinessLayer.deps.json
+E:\BidOneTestProject\BidOneBusinessLayer\bin\Debug\net8.0\BidOneBusinessLayer.dll
+E:\BidOneTestProject\BidOneBusinessLayer\bin\Debug\net8.0\BidOneBusinessLayer.pdb
+E:\BidOneTestProject\BidOneBusinessLayer\bin\Debug\net8.0\BidOneDataAccessLayer.dll
+E:\BidOneTestProject\BidOneBusinessLayer\bin\Debug\net8.0\BidOneDataAccessLayer.pdb
+E:\BidOneTestProject\BidOneBusinessLayer\obj\Debug\net8.0\BidOneBusinessLayer.csproj.AssemblyReference.cache
+E:\BidOneTestProject\BidOneBusinessLayer\obj\Debug\net8.0\BidOneBusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\BidOneTestProject\BidOneBusinessLayer\obj\Debug\net8.0\BidOneBusinessLayer.AssemblyInfoInputs.cache
+E:\BidOneTestProject\BidOneBusinessLayer\obj\Debug\net8.0\BidOneBusinessLayer.AssemblyInfo.cs
+E:\BidOneTestProject\BidOneBusinessLayer\obj\Debug\net8.0\BidOneBusinessLayer.csproj.CoreCompileInputs.cache
+E:\BidOneTestProject\BidOneBusinessLayer\obj\Debug\net8.0\BidOneBusinessLayer.csproj.CopyComplete
+E:\BidOneTestProject\BidOneBusinessLayer\obj\Debug\net8.0\BidOneBusinessLayer.dll
+E:\BidOneTestProject\BidOneBusinessLayer\obj\Debug\net8.0\refint\BidOneBusinessLayer.dll
+E:\BidOneTestProject\BidOneBusinessLayer\obj\Debug\net8.0\BidOneBusinessLayer.pdb
+E:\BidOneTestProject\BidOneBusinessLayer\obj\Debug\net8.0\ref\BidOneBusinessLayer.dll
